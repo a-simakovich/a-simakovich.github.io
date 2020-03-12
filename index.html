@@ -1,54 +1,8 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Aleksandr Simakovych</title>
-		<link rel="stylesheet" type="text/css" href="/css/main.css">
-	</head>
-	<body>
-		<nav>
-    		<ul>
-        		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
-        		<li><a href="/blog">Blog</a></li>
-    		</ul>
-		</nav>
-		<div class="container">
-    			<div class="blurb">
-        			<h1>Hi there, I'm Aleksandr!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-    			</div><!-- /.blurb -->
-			<!--
-    			PeoplePerHour Profile Widget
-    			The div#pph-hire me is the element
-    			where the iframe will be inserted.
-    			You may move this element wherever
-    			you need to display the widget
-			-->
-			<div id="pph-hireme"></div>
-			<script type="text/javascript">
-			(function(d, s) {
-    				var useSSL = 'https:' == document.location.protocol;
-    				var js, where = d.getElementsByTagName(s)[0],
-    				js = d.createElement(s);
-    				js.src = (useSSL ? 'https:' : 'http:') +  '//www.peopleperhour.com/hire/2369245691/2769584.js?width=300&height=135&orientation=vertical&theme=dark&rnd='+parseInt(Math.random()*10000, 10);
-    				try { 
-					where.parentNode.insertBefore(js, where); 
-				} 
-				catch (e) { 
-					if (typeof console !== 'undefined' && console.log && e.stack) { 
-						console.log(e.stack); 
-					} 
-				}
-			}(document, 'script'));
-			</script>
-		</div><!-- /.container -->
-		
-		<footer>
-    		<ul>
-        		<li><a href="mailto:aleksandrsimakovich0721@gmail.com">Email</a></li>
-        		<li><a href="https://github.com/a-simakovich">Github</a></li>
-			</ul>
-		</footer>
-	</body>
-</html>
+---
+layout: default
+title: Aleksandr Simakovych
+---
+<div class="blurb">
+	<h1>Hi there, I'm Aleksandr!</h1>
+	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+</div><!-- /.blurb -->
