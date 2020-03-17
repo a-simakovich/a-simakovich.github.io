@@ -3,9 +3,8 @@ logo: "/images/logo.png?raw=true"
 description:
   <div>
     <br>
-    <h3>Expertise React developer with 5 years of experience</h3>
-    <br>
-    Senior React developer specializing in web development. Knowledgeable of all the development cycle stages and have a good command of coding languages. I have much experience in teamwork and excellent problem-solving skills.
+    <h2>Expertise React developer with 5 years of experience</h2>
+    <p>Senior React developer specializing in web development. Knowledgeable of all the development cycle stages and have a good command of coding languages. I have much experience in teamwork and excellent problem-solving skills.</p>
     <br>
     <!--
       PeoplePerHour Profile Widget
@@ -36,10 +35,6 @@ description:
       } (document, 'script')
     );
     </script>
-    <br>
-    <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ru_RU" data-type="vertical" data-theme="light" data-vanity="oleksandr-simakovych-ab2b75183"><a class="LI-simple-link" href='https://ua.linkedin.com/in/oleksandr-simakovych-ab2b75183?trk=profile-badge'>Oleksandr Simakovych</a></div>
-    <br>
   </div>
 google_analytics: UA-00000-0
 theme: jekyll-theme-minimal

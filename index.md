@@ -9,9 +9,9 @@
 <img src="images/StreetDots.jpg?raw=true"/>
 
 ---
-[StreetDots]()
+[James Smith Academy]()
 
-<img src="images/StreetDots.jpg?raw=true"/>
+<img src="images/JSA.jpg?raw=true"/>
 
 ---
 [StreetDots]()
