@@ -1,3 +1,12 @@
+## Technology Epertise
+
+---
+
+<img src="images/tech/tech_react.jpg" width="55" height="55" /> <img src="images/tech/tech_node.jpg" width="55" height="55" /> <img src="images/tech/tech_aws.jpg" width="55" height="55" /> <img src="images/tech/tech_css.jpg" width="55" height="55" />
+<img src="images/tech/tech_github.jpg" width="55" height="55" /> <img src="images/tech/tech_graphql.jpg" width="55" height="55" /> <img src="images/tech/tech_reactnative.jpg" width="55" height="55" /> <img src="images/tech/tech_html5.jpg" width="55" height="55" />
+
+---
+
 ## Portfolio
 
 ---
