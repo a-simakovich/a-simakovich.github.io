@@ -9,7 +9,7 @@
 <img src="images/StreetDots.jpg?raw=true"/>
 
 ---
-[James Smith Academy]()
+[James Smith Academy](http://jamessmithacademy.com)
 
 <img src="images/JSA.jpg?raw=true"/>
 
