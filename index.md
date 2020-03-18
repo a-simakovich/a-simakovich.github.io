@@ -1,4 +1,8 @@
-## Technology Epertise
+Senior React developer specializing in web development. Knowledgeable of all the development cycle stages and have a good command of coding languages. I have much experience in teamwork and excellent problem-solving skills.
+
+---
+
+## Technology Expertise
 
 ---
 
@@ -6,7 +10,7 @@
 
 <img src="images/tech/tech_graphql.png" width="55" height="55" /> <img src="images/tech/tech_reactnative.png" width="55" height="55" /> <img src="images/tech/tech_html5.png" width="55" height="55" />
 
-
+---
 
 ## Portfolio
 
