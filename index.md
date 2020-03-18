@@ -2,11 +2,11 @@
 
 ---
 
-<img src="images/tech/tech_react.png" width="55" height="55" /> <img src="images/tech/tech_node.png" width="55" height="55" /> <img src="images/tech/tech_aws.png" width="55" height="55" /> <img src="images/tech/tech_css.png" width="55" height="55" />
+<img src="images/tech/tech_react.png" width="55" height="55" /> <img src="images/tech/tech_node.png" width="55" height="55" /> <img src="images/tech/tech_aws.png" width="55" height="55" /> <img src="images/tech/tech_css.png" width="55" height="55" /> <img src="images/tech/tech_redux.png" width="55" height="55" /> <img src="images/tech/tech_github.png" width="55" height="55" />
 
-<img src="images/tech/tech_github.png" width="55" height="55" /> <img src="images/tech/tech_graphql.png" width="55" height="55" /> <img src="images/tech/tech_reactnative.png" width="55" height="55" /> <img src="images/tech/tech_html5.png" width="55" height="55" />
+<img src="images/tech/tech_graphql.png" width="55" height="55" /> <img src="images/tech/tech_reactnative.png" width="55" height="55" /> <img src="images/tech/tech_html5.png" width="55" height="55" />
 
----
+
 
 ## Portfolio
 
