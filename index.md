@@ -18,28 +18,22 @@ Senior React developer specializing in web development. Knowledgeable of all the
 
 ### Mobile App Development
 
-[StreetDots]()
+- [StreetDots](https://streetdots.co.uk)
 
 <img src="images/StreetDots.jpg?raw=true"/>
 
 ---
-[James Smith Academy](http://jamessmithacademy.com)
+- [James Smith Academy](http://jamessmithacademy.com)
 
 <img src="images/JSA.jpg?raw=true"/>
 
 ---
-[StreetDots]()
+- [Avocadoo](https://avocadoo.com)
 
 <img src="images/StreetDots.jpg?raw=true"/>
 
 ---
 
 ### Web Development
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
