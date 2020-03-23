@@ -36,4 +36,8 @@ Senior React developer specializing in web development. Knowledgeable of all the
 
 ### Web Development
 
+- [Chartmetric](https://chartmetric.com)
+
+<img src="images/Chartmetric.png?raw=true"/>
+
 ---
