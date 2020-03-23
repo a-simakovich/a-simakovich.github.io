@@ -30,7 +30,7 @@ Senior React developer specializing in web development. Knowledgeable of all the
 ---
 - [Avocadoo](https://avocadoo.com)
 
-<img src="images/StreetDots.jpg?raw=true"/>
+<img src="images/Avocadoo.jpg?raw=true"/>
 
 ---
 
