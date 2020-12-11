@@ -19,11 +19,11 @@ description:
         var useSSL = 'https:' == document.location.protocol;
         var js, where = d.getElementsByTagName(s)[0],
         js = d.createElement(s);
-        if (useSSL) {
-          js.src = 'https://www.peopleperhour.com/hire/2369245691/2769584.js?width=300&height=135&orientation=vertical&theme=dark&rnd=' + parseInt(Math.random()*10000, 10);
-        } else {
-          js.src = 'http://www.peopleperhour.com/hire/2369245691/2769584.js?width=300&height=135&orientation=vertical&theme=dark&rnd=' + parseInt(Math.random()*10000, 10);
-        }
+#         if (useSSL) {
+#           js.src = 'https://www.peopleperhour.com/hire/2369245691/2769584.js?width=300&height=135&orientation=vertical&theme=dark&rnd=' + parseInt(Math.random()*10000, 10);
+#         } else {
+#           js.src = 'http://www.peopleperhour.com/hire/2369245691/2769584.js?width=300&height=135&orientation=vertical&theme=dark&rnd=' + parseInt(Math.random()*10000, 10);
+#         }
         try { 
           where.parentNode.insertBefore(js, where); 
         } catch (e) { 
